@@ -44,7 +44,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between">
           <a href="#hero" className="text-2xl font-bold text-portfolio-teal dark:text-portfolio-lightTeal">
-            eby
+            Daniel
             <span className="text-portfolio-coral">.</span>
           </a>
           

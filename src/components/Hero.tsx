@@ -38,7 +38,7 @@ const Hero: React.FC = () => {
       <div className="container mx-auto px-4 z-10">
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6 animate-fade-in-down dark:text-white">
-            Hi, I'm <span className="hero-gradient-text">eby</span> – 
+            Hi, I'm <span className="hero-gradient-text">Daniel</span> – 
             <br className="md:hidden" /> Data Science Enthusiast & <br className="hidden md:block" />
             Software Engineer
           </h1>
