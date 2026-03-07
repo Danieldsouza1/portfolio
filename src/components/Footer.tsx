@@ -49,19 +49,19 @@ const Footer: React.FC = () => {
               </h3>
               <div className="flex space-x-4">
                 <a 
-                  href="https://github.com/eby0303" 
+                  href="https://github.com/Danieldsouza1" 
                   className="p-2 rounded-full bg-gray-700 text-gray-300 hover:bg-portfolio-teal hover:text-white transition-colors"
                 >
                   <Github size={20} />
                 </a>
                 <a 
-                  href="https://www.linkedin.com/in/eby0303/" 
+                  href="https://www.linkedin.com/in/danieldsouza29/" 
                   className="p-2 rounded-full bg-gray-700 text-gray-300 hover:bg-portfolio-teal hover:text-white transition-colors"
                 >
                   <Linkedin size={20} />
                 </a>
                 <a 
-                  href="mailto:eby0303@gmail.com" 
+                  href="mailto:danyvdsouza@gmail.com" 
                   className="p-2 rounded-full bg-gray-700 text-gray-300 hover:bg-portfolio-teal hover:text-white transition-colors"
                 >
                   <Mail size={20} />
@@ -70,7 +70,7 @@ const Footer: React.FC = () => {
               <p className="mt-4 text-gray-400">
                 Feel free to reach out!<br />
                 <a href="mailto:eby@example.com" className="hover:text-portfolio-teal transition-colors">
-                  eby0303@gmail.com
+                  danyvdsouza@gmail.com
                 </a>
               </p>
             </div>
@@ -78,7 +78,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="mt-10 pt-6 border-t border-gray-700 text-center text-gray-500">
-          <p>© {new Date().getFullYear()} eby. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} daniel. All rights reserved.</p>
         </div>
       </div>
     </footer>

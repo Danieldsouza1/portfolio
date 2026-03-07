@@ -65,8 +65,8 @@ const Contact: React.FC = () => {
                 <Mail size={20} className="text-portfolio-teal dark:text-portfolio-lightTeal" />
                 <div>
                   <h4 className="font-medium text-gray-800 dark:text-gray-100">Email</h4>
-                  <a href="mailto:eby0303@gmail.com" className="text-portfolio-teal dark:text-portfolio-lightTeal hover:underline">
-                    eby0303@gmail.com
+                  <a href="mailto:danyvdsouza@gmail.com" className="text-portfolio-teal dark:text-portfolio-lightTeal hover:underline">
+                    danyvdsouza@gmail.com
                   </a>
                 </div>
               </div>
@@ -75,8 +75,8 @@ const Contact: React.FC = () => {
                 <Linkedin size={20} className="text-portfolio-blue" />
                 <div>
                   <h4 className="font-medium text-gray-800 dark:text-gray-100">LinkedIn</h4>
-                  <a href="https://linkedin.com/in/eby0303/" target="_blank" rel="noopener noreferrer" className="text-portfolio-blue hover:underline">
-                    linkedin.com/in/eby0303
+                  <a href="https://www.linkedin.com/in/danieldsouza29/" target="_blank" rel="noopener noreferrer" className="text-portfolio-blue hover:underline">
+                    linkedin.com/in/danieldsouza29
                   </a>
                 </div>
               </div>
@@ -85,8 +85,8 @@ const Contact: React.FC = () => {
                 <Github size={20} className="text-portfolio-darkBlue dark:text-portfolio-blue" />
                 <div>
                   <h4 className="font-medium text-gray-800 dark:text-gray-100">GitHub</h4>
-                  <a href="https://github.com/eby0303" target="_blank" rel="noopener noreferrer" className="text-portfolio-darkBlue dark:text-portfolio-blue hover:underline">
-                    github.com/eby0303
+                  <a href="https://github.com/Danieldsouza1" target="_blank" rel="noopener noreferrer" className="text-portfolio-darkBlue dark:text-portfolio-blue hover:underline">
+                    github.com/Danieldsouza1
                   </a>
                 </div>
               </div>

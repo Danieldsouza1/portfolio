@@ -19,10 +19,10 @@ const Projects: React.FC = () => {
   
   const projects: Project[] = [
     {
-      title: "RainInsight: Rain Prediction and Forecasting",
-      description: "Developed a Streamlit application to predict rainfall and provide weather forecasting for a given location using an LSTM model",
-      tags: ["Python", "Streamlit", "LSTM", "Data Visualization"],
-      githubUrl: "https://github.com/eby0303/RainInsight",
+      title: "Laliga Data Scraper and Dashboard",
+      description: "Built ETL pipelines to scrape and process 10,000+ football match records across multiple seasons.",
+      tags: ["Python", "Streamlit", "ETL", "Pandas", "MongoDB"],
+      githubUrl: "https://github.com/Danieldsouza1/Fbref-Laliga-Teams-scrape",
       // demoUrl: "#",
       bgColor: "bg-gradient-to-br from-portfolio-blue to-portfolio-teal",
       darkBgColor: "dark:bg-gradient-to-br dark:from-slate-800 dark:to-slate-900"
@@ -36,22 +36,14 @@ const Projects: React.FC = () => {
       darkBgColor: "dark:bg-gradient-to-br dark:from-slate-800 dark:to-slate-900"
     },
     {
-      title: "AI-powered assistant Wardrobe Management",
-      description: "Effortless wardrobe management and personalized outfit recommendations with help of Google's Gemini",
-      tags: ["Next.js", "Mongodb", "Gemini", "Recommendation System"],
-      githubUrl: "https://github.com/eby0303/Stylense",
-      demoUrl: "https://hlwlfgus7tnw7vxo.vercel.app/",
+      title: "GitHub Codebase RAG System:",
+      description: " Built a semantic code retrieval pipeline using Sentence-Transformer embeddings and FAISS to enable context aware LLM responses grounded in source code.",
+      tags: ["Grog", "LLama", "LLM","FAISS", "RAG System"],
+      githubUrl: "https://github.com/Danieldsouza1/codebase_rag_project",
       bgColor: "bg-gradient-to-br from-portfolio-pink to-portfolio-purple",
       darkBgColor: "dark:bg-gradient-to-br dark:from-slate-800 dark:to-slate-900"
     },
-    {
-      title: "Automated Vessel Anomaly and Oil Spill Detection System",
-      description: "Combines real-time vessel tracking data with satellite imagery to detect anomalies in vessel behavior and identify potential oil spills in maritime regions. The system automates the monitoring process, enabling early detection of environmental hazards and enabling timely responses.",
-      tags: ["Streamlit", "Python", "Sentinel Hub API", "Folium"],
-      githubUrl: "https://github.com/eby0303/SpillSafe-Monitor",
-      bgColor: "bg-gradient-to-br from-portfolio-teal to-portfolio-blue",
-      darkBgColor: "dark:bg-gradient-to-br dark:from-slate-800 dark:to-slate-900"
-    },
+    
   ];
   
   useEffect(() => {

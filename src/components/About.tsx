@@ -48,7 +48,7 @@ const About: React.FC = () => {
             </h2>
             
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-6 animate-on-scroll opacity-0 translate-y-10 transition-all duration-700 delay-100">
-              I am a 3rd-year BE IT student at Fr. Conceicao Rodrigues Institute of Technology, driven by a passion for data science and analytics.
+              I am a 4th-year BE IT student at Fr. Conceicao Rodrigues Institute of Technology, driven by a passion for data science and analytics.
             </p>
             
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-6 animate-on-scroll opacity-0 translate-y-10 transition-all duration-700 delay-200">
