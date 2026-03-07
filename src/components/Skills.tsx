@@ -84,7 +84,7 @@ const Skills: React.FC = () => {
           </div>
           
           <div className="mt-16 grid grid-cols-2 md:grid-cols-3 gap-6">
-            {['Data Mining', 'React', 'SQL/MongoDB', 'Next.js', 'Streamlit', 'Node'].map((skill, index) => (
+            {['Data Mining', 'RAG', 'SQL/MongoDB', 'LLM', 'Streamlit', 'Node'].map((skill, index) => (
               <div 
                 key={skill}
                 className="bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-4 shadow-sm hover:shadow-md opacity-0 translate-y-10 transition-all duration-500 text-center"
